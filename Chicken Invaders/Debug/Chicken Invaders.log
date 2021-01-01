@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Projects\Chicken-Invaders\Chicken Invaders\Main.cpp(1,9): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Tester.cpp
+  Generating Code...
